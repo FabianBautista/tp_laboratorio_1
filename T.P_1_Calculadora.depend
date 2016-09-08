@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473300686 source:c:\users\fabian\desktop\t.p_1_calculadora\funciones.c
+
+1473300938 source:c:\users\fabian\desktop\t.p_1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473300996 c:\users\fabian\desktop\t.p_1_calculadora\funciones.h
+
