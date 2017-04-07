@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1473300686 source:c:\users\fabian\desktop\t.p_1_calculadora\funciones.c
+
+1473300938 source:c:\users\fabian\desktop\t.p_1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473300996 c:\users\fabian\desktop\t.p_1_calculadora\funciones.h
+
+1473291012 source:c:\users\fabian\downloads\video\compressed\t.p_1_calculadora-master\t.p_1_calculadora-master\funciones.c
+
+1473291012 source:c:\users\fabian\downloads\video\compressed\t.p_1_calculadora-master\t.p_1_calculadora-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473291012 c:\users\fabian\downloads\video\compressed\t.p_1_calculadora-master\t.p_1_calculadora-master\funciones.h
+
